@@ -1,0 +1,12 @@
+{
+    "name": "brunoramalho/car-pricing-service",
+    "description": "Game of Life",
+    "autoload": {
+        "psr-4": {
+            "CarPricingService\\": "src/"
+        }
+    },
+    "require": {
+        "phpmetrics/phpmetrics": "^2.0"
+    }
+}
